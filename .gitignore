@@ -1,0 +1,4 @@
+torrent-downloader
+__debug*
+/tmp
+public/log.txt

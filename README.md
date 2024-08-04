@@ -1,4 +1,5 @@
-# Torrent Downloader
+
+# go-torrent-downloader
 
 Este projeto é um servidor HTTP simples construído com Go, usando o framework Gin, que permite aos usuários iniciar downloads de torrents através de links magnet. Os downloads são gerenciados pelo cliente `aria2c`.
 
@@ -94,4 +95,3 @@ Sinta-se à vontade para adaptar este `README.md` conforme suas necessidades esp
 
 
 
-# go-torrent-downloader
